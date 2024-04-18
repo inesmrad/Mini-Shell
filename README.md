@@ -1,6 +1,7 @@
 # Mini-Shell
 
 Implementation of a minimalistic Shell
+
 I. Introduction:
 The goal of this project is to implement a simple minimalistic Shell.
 A Shell is a program whose primary purpose is to launch other programs. Users can type a command inside 
